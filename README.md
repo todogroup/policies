@@ -10,4 +10,4 @@ These templates and examples are simply for you to reuse and learn from.
  * [Open Source Approval Form Template](https://github.com/todogroup/policies/blob/master/linuxfoundation/lf_compliance_approval.pdf)
  * [Open Source Generic Policy](https://github.com/todogroup/policies/blob/master/linuxfoundation/lf_compliance_generic_policy.pdf)
 * Rackspace
- * [Model IP and Open Source Contribution Policy](https://github.com/todogroup/policies/tree/master/linuxfoundation)
+ * [Model IP and Open Source Contribution Policy](https://github.com/todogroup/policies/tree/master/rackspace)
