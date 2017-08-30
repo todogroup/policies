@@ -6,8 +6,12 @@ These templates and examples are simply for you to reuse and learn from.
 
 ## Templates
 
+* Google
+  * [OSPO Policies](https://opensource.google.com/docs/)
 * Linux Foundation
- * [Open Source Approval Form Template](https://github.com/todogroup/policies/blob/master/linuxfoundation/lf_compliance_approval.pdf)
- * [Open Source Generic Policy](https://github.com/todogroup/policies/blob/master/linuxfoundation/lf_compliance_generic_policy.pdf)
+  * [Open Source Approval Form Template](https://github.com/todogroup/policies/blob/master/linuxfoundation/lf_compliance_approval.pdf)
+  * [Open Source Generic Policy](https://github.com/todogroup/policies/blob/master/linuxfoundation/lf_compliance_generic_policy.pdf)
 * Rackspace
- * [Model IP and Open Source Contribution Policy](https://github.com/todogroup/policies/tree/master/rackspace)
+  * [Model IP and Open Source Contribution Policy](https://github.com/todogroup/policies/tree/master/rackspace)
+* Zalando
+  * [Open Source Guidance](https://github.com/zalando/zalando-howto-open-source)
