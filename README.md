@@ -4,8 +4,10 @@ Companies using open source software often create a company-wide policy to ensur
 
 These templates and examples are simply for you to reuse and learn from.
 
-## Templates
+## Examples and Templates
 
+* Gitlab
+  * [Handbook](https://about.gitlab.com/handbook/)
 * Google
   * [OSPO Policies](https://opensource.google.com/docs/)
 * Linux Foundation
