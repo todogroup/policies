@@ -6,8 +6,8 @@ These templates and examples are simply for you to reuse and learn from.
 
 ## Examples and Templates
 
-* Gitlab
-  * [Handbook](https://about.gitlab.com/handbook/)
+* GitLab
+  * [GitLab Team Handbook](https://about.gitlab.com/handbook/)
 * Google
   * [OSPO Policies](https://opensource.google.com/docs/)
 * Linux Foundation
