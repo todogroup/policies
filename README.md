@@ -18,4 +18,4 @@ These templates and examples are simply for you to reuse and learn from.
 * SUSE
   * [SUSE Open Source Policy](https://opensource.suse.com/suse-open-source-policy)
 * Zalando
-  * [Open Source Guidance](https://github.com/zalando/zalando-howto-open-source)
+  * [Open Source Guidance](https://opensource.zalando.com/docs)
