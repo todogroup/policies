@@ -13,6 +13,8 @@ These templates and examples are simply for you to reuse and learn from.
 * Linux Foundation
   * [Open Source Approval Form Template](https://github.com/todogroup/policies/blob/master/linuxfoundation/lf_compliance_approval.pdf)
   * [Open Source Generic Policy](https://github.com/todogroup/policies/blob/master/linuxfoundation/lf_compliance_generic_policy.pdf)
+* Joyent
+  * [Joyent Open Source Policy](https://github.com/joyent/rfd/blob/master/rfd/0164/README.md)
 * Rackspace
   * [Model IP and Open Source Contribution Policy](https://github.com/todogroup/policies/tree/master/rackspace)
 * SUSE
