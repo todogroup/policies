@@ -6,6 +6,8 @@ These templates and examples are simply for you to reuse and learn from.
 
 ## Examples and Templates
 
+* Buffer
+  * [Buffer Open Source Guide](https://open.buffer.com/guide-open-source/)
 * GitLab
   * [GitLab Team Handbook](https://about.gitlab.com/handbook/)
 * Google
