@@ -1,6 +1,5 @@
 # Rackspace
-This is a variation of Rackspace's open source policy based on these respective blog posts:
-https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source
+This is a variation of Rackspace's open source policy:
 https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/
 
 Here's also a convenient Google docs version for reuse:
