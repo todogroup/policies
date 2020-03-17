@@ -21,5 +21,7 @@ These templates and examples are simply for you to reuse and learn from.
   * [Model IP and Open Source Contribution Policy](https://github.com/todogroup/policies/tree/master/rackspace)
 * SUSE
   * [SUSE Open Source Policy](https://opensource.suse.com/suse-open-source-policy)
+* Verizon
+  * [Verizon Open Source Guide](https://verizonmedia.github.io/oss-guide)
 * Zalando
   * [Zalando's Open Source Documentation](https://opensource.zalando.com/)
