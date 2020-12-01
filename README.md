@@ -19,6 +19,8 @@ These templates and examples are simply for you to reuse and learn from.
   * [FINOS Reference FOSS Policy](https://github.com/finos/reference-foss-policy/blob/master/src/FINOS-reference-FOSS-policy.adoc)
 * Joyent
   * [Joyent Open Source Policy](https://github.com/joyent/rfd/blob/master/rfd/0164/README.md)
+* OpenChain
+  * [OpenChain Policy Template](https://github.com/OpenChain-Project/Reference-Material/tree/master/Open-Source-Policy/Official/2.0/en)
 * Rackspace
   * [Model IP and Open Source Contribution Policy](https://github.com/todogroup/policies/tree/master/rackspace)
 * SUSE
