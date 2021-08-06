@@ -26,6 +26,6 @@ These templates and examples are simply for you to reuse and learn from.
 * SUSE
   * [SUSE Open Source Policy](https://opensource.suse.com/suse-open-source-policy)
 * Verizon
-  * [Verizon Open Source Guide](https://verizonmedia.github.io/oss-guide)
+  * [Yahoo Open Source Guide](https://https://yahoo.github.io/oss-guide)
 * Zalando
   * [Zalando's Open Source Documentation](https://opensource.zalando.com/)
