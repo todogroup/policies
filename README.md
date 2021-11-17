@@ -17,15 +17,19 @@ These templates and examples are simply for you to reuse and learn from.
   * [Open Source Generic Policy](https://github.com/todogroup/policies/blob/master/linuxfoundation/lf_compliance_generic_policy.pdf)
 * FINOS
   * [FINOS Reference FOSS Policy](https://github.com/finos/reference-foss-policy/blob/master/src/FINOS-reference-FOSS-policy.adoc)
+* Indeed
+  * [Indeed](https://github.com/indeedeng/oss-guide/tree/main/docs/resources)
 * Joyent
   * [Joyent Open Source Policy](https://github.com/joyent/rfd/blob/master/rfd/0164/README.md)
 * OpenChain
   * [OpenChain Policy Template](https://github.com/OpenChain-Project/Reference-Material/tree/master/Open-Source-Policy/Official/2.0/en)
 * Rackspace
   * [Model IP and Open Source Contribution Policy](https://github.com/todogroup/policies/tree/master/rackspace)
+* Sauce Labs
+  * [Sauce Labs Open Source Documentation](https://opensource.saucelabs.com/docs/)
 * SUSE
   * [SUSE Open Source Policy](https://opensource.suse.com/suse-open-source-policy)
-* Verizon
+* Yahoo
   * [Yahoo Open Source Guide](https://yahoo.github.io/oss-guide)
 * Zalando
   * [Zalando's Open Source Documentation](https://opensource.zalando.com/)
