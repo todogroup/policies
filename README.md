@@ -23,6 +23,8 @@ These templates and examples are simply for you to reuse and learn from.
   * [OpenChain Policy Template](https://github.com/OpenChain-Project/Reference-Material/tree/master/Open-Source-Policy/Official/2.0/en)
 * Rackspace
   * [Model IP and Open Source Contribution Policy](https://github.com/todogroup/policies/tree/master/rackspace)
+* Sauce Labs
+  * [Sauce Labs Open Source Documentation](https://opensource.saucelabs.com/docs/)
 * SUSE
   * [SUSE Open Source Policy](https://opensource.suse.com/suse-open-source-policy)
 * Verizon
