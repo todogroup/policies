@@ -27,7 +27,7 @@ These templates and examples are simply for you to reuse and learn from.
   * [Sauce Labs Open Source Documentation](https://opensource.saucelabs.com/docs/)
 * SUSE
   * [SUSE Open Source Policy](https://opensource.suse.com/suse-open-source-policy)
-* Verizon
+* Yahoo
   * [Yahoo Open Source Guide](https://yahoo.github.io/oss-guide)
 * Zalando
   * [Zalando's Open Source Documentation](https://opensource.zalando.com/)
