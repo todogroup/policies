@@ -29,6 +29,8 @@ These templates and examples are simply for you to reuse and learn from.
   * [Sauce Labs Open Source Documentation](https://opensource.saucelabs.com/docs/)
 * SUSE
   * [SUSE Open Source Policy](https://opensource.suse.com/suse-open-source-policy)
+* United States Government Services Administration (GSA)
+  * [GSA.gov Open Source Policy](https://open.gsa.gov/oss-policy/)
 * Yahoo
   * [Yahoo Open Source Guide](https://yahoo.github.io/oss-guide)
 * Zalando
