@@ -8,6 +8,8 @@ These templates and examples are simply for you to reuse and learn from.
 
 * Buffer
   * [Buffer Open Source Guide](https://open.buffer.com/guide-open-source/)
+* eBay
+  * [open source website](https://opensource.ebay.com/)
 * GitLab
   * [GitLab Team Handbook](https://about.gitlab.com/handbook/)
 * Google
