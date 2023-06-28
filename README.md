@@ -26,6 +26,8 @@ These templates and examples are simply for you to reuse and learn from.
   * [Indeed](https://github.com/indeedeng/oss-guide/tree/main/docs/resources)
 * Joyent
   * [Joyent Open Source Policy](https://github.com/joyent/rfd/blob/master/rfd/0164/README.md)
+* Microsoft
+  * [Microsoft's Open Source Program](https://opensource.microsoft.com/program/)
 * OpenChain
   * [OpenChain Policy Template](https://github.com/OpenChain-Project/Reference-Material/tree/master/Open-Source-Policy/Official/2.0/en)
 * Rackspace
