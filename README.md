@@ -8,6 +8,9 @@ These templates and examples are simply for you to reuse and learn from.
 
 * Buffer
   * [Buffer Open Source Guide](https://open.buffer.com/guide-open-source/)
+* Citi
+  * [Citi OSPO](https://github.com/Citi/citi-ospo)
+  * [Free and Open Source Software Contribution Guidelines](https://github.com/Citi/citi-ospo/blob/main/FOSS%20Contribution%20Guidelines.md)
 * eBay
   * [open source website](https://opensource.ebay.com/)
 * GitLab
